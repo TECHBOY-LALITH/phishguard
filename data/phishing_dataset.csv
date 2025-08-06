@@ -1,0 +1,11 @@
+url,label
+http://phishingsite.com,1
+https://secure-bank-login.com,1
+https://google.com,0
+https://github.com,0
+http://malicious-site.ru/login,1
+https://openai.com,0
+http://verify-paypal.com/login,1
+https://facebook.com,0
+http://appleid-login.com,1
+https://microsoft.com,0
